@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on (https://github.com/prabhavi111/TalkTime)<br>🌱 I’m currently learning Golang
+I’m currently learning Golang
 
 
 ## 🌐 Socials:
